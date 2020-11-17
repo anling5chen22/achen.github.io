@@ -5,6 +5,7 @@ by Anling Chen. CSCI 127 Fall 2020
 In the heart of Lower Manhattan!
 
 <img src="Highlighted Region East Village.png" class="inline"/>
+
 ##### 2. Demographics and History of East Village
 
 •Zip codes:
