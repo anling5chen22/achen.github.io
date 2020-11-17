@@ -35,22 +35,26 @@ The three most important qualities for choosing a neighborhood are safety, affor
 
 ##### 4. East Village Airbnb Statistics 
 
-######The average price to rent an AirBnB in Manhattan is 196 and the average price to rent an AirBnB in East Village is 186. 8.6% of listings in Manhattan are in East Village. This means that almost ten percent of listings in Manhattan are in East Village and the area must be desirable for there to be such a supply of housing to meet the demand. In addition, with almost half of listings in the whole city belonging in Manhattan, this means that East Village is a prime location spot for people looking for airbnbs. 
+###### The average price to rent an AirBnB in Manhattan is 196 and the average price to rent an AirBnB in East Village is 186. 8.6% of listings in Manhattan are in East Village. This means that almost ten percent of listings in Manhattan are in East Village and the area must be desirable for there to be such a supply of housing to meet the demand. In addition, with almost half of listings in the whole city belonging in Manhattan, this means that East Village is a prime location spot for people looking for airbnbs. 
 
 <img src="Average amount of minimum nights compared to other neighborhoods.png" class="inline"/>
 
+###### Chart I: 
 The average of minimum nights in East Village is 33% less than the average of minimum nights in Manhattan. While the average of minimum nights in Manhattan is about 8.6, East Village is 6.4. This means that tenants in East Village are not looking for as long stays in their housing as the average Manhattan tenant. This is also in line with the average price, where one may conclude that the vacationer going to East Village is looking for more affordable options as well as shorter stays.  
 
 <img src="Average price compared to all Manhattan neighbourhoods (2).png" class="inline"/>
 
+###### Chart 2:
 The average number of reviews for all neighborhoods is highest in the theater district, with 2.7 reviews per month, followed by Tribeca, Hell’s Kitchen, and East Village, respectively. From this data, we can see that the places with higher rents, such as Tribeca and East Village, also have more reviews per month on average than other neighborhoods. East Village lies about in the middle of the average number of reviews for all neighbourhoods, showing that there is a large population that are staying there for not too long, but also not too short of a time, but perhaps for a regular weeklong vacation. This is for those looking for affordable places or short stays, not living for a long time. 
 
 <img src="Average price compared to other neighborhoods.png" class="inline"/>
 
+###### Chart 3:
 The average price per night in East Village is 5.8% less than the average price per night in Manhattan. Compared to other neighborhoods, such as West Village, Chinatown, and East Harlem, East Village ranks second in terms of average price. West Village surpasses it with $270 dollars a night, while East Village has an average price of $186. This is in line with the analysis of the desirability of East Village compared to other neighbourhoods in Manhattan. The more desirable a neighborhood, the higher price it will require per night. Still, East Village is still several points lower than the borough average, showing that it is not considered a very wealthy or desirable area where it would fetch higher prices.
 
 <img src="Pie graph of room type listings.png" class="inline"/>
 
+###### Chart 4:
 The majority of rooms types in East Village are entire rooms or apartments, but there is also about a third of airbnbs that are for private rooms. From this, we may assume that vacationers are looking for large, private apartments for families or people travelling in a group. However, there is also a prominent population of individuals travelling alone, such as for overnight stays or solo trips. This goes along with the HC2 analysis that this place is good for families and groups looking for lots of activities. A very small number of shared rooms show that this place is not the most prominent spot for those looking to meet new people or those looking for a very affordable deal. 
 
 
