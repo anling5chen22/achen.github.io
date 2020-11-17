@@ -1,6 +1,7 @@
 # Airbnbs in East Village, Manhattan
 by Anling Chen. CSCI 127 Fall 2020
 ##### 1. Where is East Village?
+![alt text]("Highlighted Region East Village.png")
 ##### 2. Demographics and History of East Village
 ##### 3. What makes a neighborhood desirable?
 ##### 4. East Village Airbnb Statistics 
