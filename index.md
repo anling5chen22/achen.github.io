@@ -1,10 +1,14 @@
 # Airbnbs in East Village, Manhattan
 by Anling Chen. CSCI 127 Fall 2020
 ##### 1. Where is East Village?
+In the heart of Lower Manhattan!
 <img src="Highlighted Region East Village.png" class="inline"/>
 ##### 2. Demographics and History of East Village
+
 •Zip codes:
+
 o 10003, 10009
+
 • Population:
 o 112,607 (2018)
 • Defined as area north of Houston
