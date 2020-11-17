@@ -15,12 +15,10 @@ In the heart of Lower Manhattan!
 
     o 112,607 (2018)
 
-• Defined as area north of Houston
-Street but south of 14th Street
+• Defined as area north of Houston Street but south of 14th Street
 
-    o Bound between FDR Drive in the
-    east and Bowery Street and 4th
-    Ave in the west
+
+    o Bound between FDR Drive in the east and Bowery Street and 4th Ave in the west
 
 • Contains three subsections:
 
@@ -28,8 +26,8 @@ Street but south of 14th Street
 
 • Historically a landing spot for immigrants
 
-    o Now associated with comparatively affordable restaurants,
-  homes, NYU, other colleges, and boutiques.
+    o Now associated with comparatively affordable restaurants, homes, NYU, other colleges, and boutiques.
+       
 
     o Considered a melting pot region of NYC
 
