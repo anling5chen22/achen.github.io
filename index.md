@@ -57,10 +57,9 @@ The average price per night in East Village is 5.8% less than the average price 
 _Chart 4:_
 The majority of rooms types in East Village are entire rooms or apartments, but there is also about a third of airbnbs that are for private rooms. From this, we may assume that vacationers are looking for large, private apartments for families or people travelling in a group. However, there is also a prominent population of individuals travelling alone, such as for overnight stays or solo trips. This goes along with the HC2 analysis that this place is good for families and groups looking for lots of activities. A very small number of shared rooms show that this place is not the most prominent spot for those looking to meet new people or those looking for a very affordable deal. 
 
-_Chart 5:_
-
 <img src="Average number of reviews for all nbhds.png" class="inline"/>
 
+_Chart 5:_
 The average number of reviews per month is about on par with the average number of reviews in Manhattan, showing that an average amount of people would stay in the East Village region without staying for a long time, or staying for a short stay, such as overnight or as a midway stop between travelling to another location. This is on par with the analysis in that many families would prefer to stay here. 
 
 ##### 5. Interactive Map
