@@ -64,7 +64,7 @@ _Chart 3:_
     Listings that contain entire rooms or apartments:  1170
     Listings that are shared rooms:  23
 
-The majority of rooms types in East Village are entire rooms or apartments, but there is also about a third of airbnbs that are for private rooms. From this, we may assume that vacationers are looking for large, private apartments for families or people travelling in a group. However, there is also a prominent population of individuals travelling alone, such as for overnight stays or solo trips. This goes along with the HC2 analysis that this place is good for families and groups looking for lots of activities. A very small number of shared rooms show that this place is not the most prominent spot for those looking to meet new people or those looking for a very affordable deal. 
+The majority of rooms types in East Village are entire rooms or apartments, but there is also about a third of airbnbs that are for private rooms. From this, we may assume that vacationers are looking for large, private apartments for families or people travelling in a group. However, there is also a prominent population of individuals travelling alone, such as for overnight stays or solo trips. This goes along with the idea that this area is good for families and groups looking for lots of activities. A very small number of shared rooms show that this place is not the most prominent spot for those looking to meet new people or those looking for a very affordable deal. 
 
 _Chart 4:_
 
