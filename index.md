@@ -1,8 +1,7 @@
 # Airbnbs in East Village, Manhattan
 by Anling Chen. CSCI 127 Fall 2020
 ##### 1. Where is East Village?
-![alt text][logo]
-[logo]: "Highlighted Region East Village.png"
+<img src="Highlighted Region East Village.png" class="inline"/>
 ##### 2. Demographics and History of East Village
 •Zip codes:
 o 10003, 10009
