@@ -14,7 +14,7 @@ In the heart of Lower Manhattan!
 
 • Population:
 
-⋅⋅*112,607 (2018)⋅⋅*
+⋅⋅⋅112,607 (2018)⋅⋅⋅
 
 • Defined as area north of Houston Street but south of 14th Street
 
@@ -36,10 +36,13 @@ The three most important qualities for choosing a neighborhood are safety, affor
 #### 4. East Village Airbnb Statistics 
 
 ⋅⋅⋅The average price to rent an AirBnB in Manhattan is:  196.8758136743456⋅⋅⋅
+
 ⋅⋅⋅The average price to rent an AirBnB in East Village is:  186.0831084727469⋅⋅⋅
     
 ⋅⋅⋅Number of listings in all boroughs:  48895⋅⋅⋅
+
 ⋅⋅⋅Number of listings in Manhattan:  21661⋅⋅⋅
+
 ⋅⋅⋅Number of listings in East Village:  1853⋅⋅⋅
     
 ###### The average price to rent an AirBnB in Manhattan is 196 and the average price to rent an AirBnB in East Village is 186. 8.6% of listings in Manhattan are in East Village. This means that almost ten percent of listings in Manhattan are in East Village and the area must be desirable for there to be such a supply of housing to meet the demand. In addition, with almost half of listings in the whole city belonging in Manhattan, this means that East Village is a prime location spot for people looking for airbnbs. 
