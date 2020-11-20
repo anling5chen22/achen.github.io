@@ -10,24 +10,24 @@ In the heart of Lower Manhattan!
 
 •Zip codes:
 
-    o 10003, 10009
+⋅⋅⋅10003, 10009⋅⋅⋅
 
 • Population:
 
-    o 112,607 (2018)
+⋅⋅⋅112,607 (2018)⋅⋅⋅
 
 • Defined as area north of Houston Street but south of 14th Street
 
-    o Bound between FDR Drive in the east and Bowery Street and 4th Ave in the west
+⋅⋅⋅Bound between FDR Drive in the east and Bowery Street and 4th Ave in the west⋅⋅⋅
 
 • Contains three subsections:
 
-    o Alphabet City, Little Ukraine, and Bowery
+⋅⋅⋅Alphabet City, Little Ukraine, and Bowery⋅⋅⋅
 
 • Historically a landing spot for immigrants
 
-    o Now associated with comparatively affordable restaurants, homes, NYU, other colleges, and boutiques.
-    o Considered a melting pot region of NYC
+⋅⋅⋅Now associated with comparatively affordable restaurants, homes, NYU, other colleges, and boutiques.⋅⋅⋅
+⋅⋅⋅Considered a melting pot region of NYC⋅⋅⋅
 
 #### 3. What makes a neighborhood desirable? What makes East Village desirable?
 
@@ -35,12 +35,12 @@ The three most important qualities for choosing a neighborhood are safety, affor
 
 #### 4. East Village Airbnb Statistics 
 
-    The average price to rent an AirBnB in Manhattan is:  196.8758136743456
-    The average price to rent an AirBnB in East Village is:  186.0831084727469
+⋅⋅⋅The average price to rent an AirBnB in Manhattan is:  196.8758136743456⋅⋅⋅
+⋅⋅⋅The average price to rent an AirBnB in East Village is:  186.0831084727469⋅⋅⋅
     
-    Number of listings in all boroughs:  48895
-    Number of listings in Manhattan:  21661
-    Number of listings in East Village:  1853
+⋅⋅⋅Number of listings in all boroughs:  48895⋅⋅⋅
+⋅⋅⋅Number of listings in Manhattan:  21661⋅⋅⋅
+⋅⋅⋅Number of listings in East Village:  1853⋅⋅⋅
     
 ###### The average price to rent an AirBnB in Manhattan is 196 and the average price to rent an AirBnB in East Village is 186. 8.6% of listings in Manhattan are in East Village. This means that almost ten percent of listings in Manhattan are in East Village and the area must be desirable for there to be such a supply of housing to meet the demand. In addition, with almost half of listings in the whole city belonging in Manhattan, this means that East Village is a prime location spot for people looking for airbnbs. 
 
