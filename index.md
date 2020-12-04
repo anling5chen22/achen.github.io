@@ -10,19 +10,19 @@ In the heart of Lower Manhattan!
 
 •Zip codes:
 
-⋅⋅⋅10003, 10009⋅⋅⋅
++++10003, 10009+++
 
 • Population:
 
-⋅⋅⋅112,607 (2018)⋅⋅⋅
+   112,607 (2018)
 
 • Defined as area north of Houston Street but south of 14th Street
 
-⋅⋅⋅Bound between FDR Drive in the east and Bowery Street and 4th Ave in the west⋅⋅⋅
+   Bound between FDR Drive in the east and Bowery Street and 4th Ave in the west⋅⋅⋅
 
 • Contains three subsections:
 
-⋅⋅⋅Alphabet City, Little Ukraine, and Bowery⋅⋅⋅
+   Alphabet City, Little Ukraine, and Bowery⋅⋅⋅
 
 • Historically a landing spot for immigrants
 
