@@ -14,7 +14,7 @@ In the heart of Lower Manhattan!
 
 • Population:
 
-   112,607 (2018)
+&nbsp;&nbsp;&nbsp;&nbsp;112,607 (2018)
 
 • Defined as area north of Houston Street but south of 14th Street
 
